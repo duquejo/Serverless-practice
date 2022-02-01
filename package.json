@@ -1,0 +1,14 @@
+{
+  "dependencies": {
+    "@middy/core": "^2.5.7",
+    "@middy/http-error-handler": "^2.5.7",
+    "@middy/http-json-body-parser": "^2.5.7",
+    "@middy/validator": "^2.5.7",
+    "ajv": "^8.9.0",
+    "aws-sdk": "^2.1066.0",
+    "uuid": "^8.3.2"
+  },
+  "devDependencies": {
+    "serverless-offline": "^8.4.0"
+  }
+}
